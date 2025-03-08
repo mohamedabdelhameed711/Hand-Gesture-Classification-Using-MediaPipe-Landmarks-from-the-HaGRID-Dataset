@@ -48,9 +48,11 @@ Project Structure
 ├── README.md  # Project documentation
 
 Contributing
+
 Feel free to fork this repository, report issues, or contribute improvements!
 
 License
+
 This project is open-source under the MIT License.
 
  
