@@ -42,8 +42,11 @@ Evaluation Metrics: Precision, recall, and F1-score are displayed for each model
 Video Demo: A hand gesture recognition system.
 
 Project Structure
+
 ├── data.csv  # Landmark dataset
+
 ├── hand_gesture_classification.py  # Main script
+
 ├── README.md  # Project documentation
 
 Contributing
