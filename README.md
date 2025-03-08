@@ -43,9 +43,7 @@ Video Demo: A hand gesture recognition system.
 
 Project Structure
 
-├── data.csv  # Landmark dataset
-
-├── hand_gesture_classification.py  # Main script
+├── hand_gesture_classification.ipynb  # Main script
 
 ├── README.md  # Project documentation
 
