@@ -10,11 +10,11 @@ Data Preprocessing: Cleaning and normalizing landmark coordinates.
 
 Visualization: Plotting keypoints and analyzing class distribution.
 
-Model Training: Implementing and comparing Random Forest, SVM, and KNN models.
+Model Training: Implementing and comparing Random Forest, SVM, and XGBoost models.
 
 Evaluation: Reporting accuracy, precision, recall, and F1-score.
 
-Live Gesture Recognition: Using OpenCV and MediaPipe to process video input.
+Gesture Recognition: Using OpenCV and MediaPipe to process input video.
 
 Dataset
 
@@ -31,7 +31,7 @@ Prepare Data: Place the CSV file containing landmark data in the project directo
 
 Run Training: Execute the Python script to train and evaluate the models.
 
-Prediction: Use the trained model to classify hand gestures from a video.
+Prediction: Use the best trained model to classify hand gestures from a video.
 
 Results
 
