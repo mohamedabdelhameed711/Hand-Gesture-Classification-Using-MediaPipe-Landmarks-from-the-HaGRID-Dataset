@@ -23,6 +23,7 @@ The dataset consists of 21 hand landmarks (x, y, z coordinates). These landmarks
 ## Installation
 
 To run this project, install the required dependencies:
+
 `pip install numpy pandas scikit-learn matplotlib seaborn mediapipe opencv-python`
 
 ## Usage
